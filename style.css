@@ -3,7 +3,7 @@ body{
 }
 
 .header{
-    background-color: #f6fcc5;
+    background-color: #D3C5FC;
     height: 150px;
     width: 1920px;
 }
@@ -14,13 +14,13 @@ body{
 }
 
 .main{
-    background-color: #f6fcc5;
+    background-color: #D3C5FC;
     height: 1000px;
     width: 1920px;
 }
 
 .footer{
-    background-color: #eaf188;
+    background-color: #AF95F9;
     height: 150px;
     width: 1920px;
 }
