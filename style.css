@@ -13,6 +13,12 @@ body{
     padding: 0;
 }
 
+.main{
+    background-color: #D3C5FC;
+    height: 300px;
+    width: 1920px;
+}
+
 .contact-form{
     background-color: #D3C5FC;
     height: 500px;
