@@ -2,20 +2,8 @@ body{
     font-family: "CapieN Medium";
 }
 
-h1{
-    font-size: 30px;
-    background-color: #b6ffce;
-    color: #51a66e;
-}
-
-h2{
-    font-size: 20px;
-    background-color: #b6ffce;
-    color: #51a66e;
-}
-
 .header{
-    background-color: #b6ffce;
+    background-color: #D3C5FC;
     height: 150px;
     width: 1920px;
 }
@@ -26,13 +14,19 @@ h2{
 }
 
 .main{
-    background-color: #b6ffce;
-    height: 1000px;
+    background-color: #D3C5FC;
+    height: 300px;
+    width: 1920px;
+}
+
+.contact-form{
+    background-color: #D3C5FC;
+    height: 200px;
     width: 1920px;
 }
 
 .footer{
-    background-color: #84dfa3;
+    background-color: #AF95F9;
     height: 150px;
     width: 1920px;
 }
