@@ -19,10 +19,8 @@ body{
     width: 1920px;
 }
 
-.contact-form{
-    background-color: #D3C5FC;
-    height: 200px;
-    width: 1920px;
+h1{
+ font-size:50px
 }
 
 .footer{
