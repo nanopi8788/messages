@@ -1,0 +1,38 @@
+body{
+    font-family: "CapieN Medium";
+}
+
+h1{
+    font-size: 30px;
+    background-color: #b6ffce;
+    color: #51a66e;
+}
+
+h2{
+    font-size: 20px;
+    background-color: #b6ffce;
+    color: #51a66e;
+}
+
+.header{
+    background-color: #b6ffce;
+    height: 150px;
+    width: 1920px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    background-color: #b6ffce;
+    height: 1000px;
+    width: 1920px;
+}
+
+.footer{
+    background-color: #84dfa3;
+    height: 150px;
+    width: 1920px;
+}
